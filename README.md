@@ -35,12 +35,10 @@ Este não é apenas um repositório.
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14cTR1NzczZXZqdzQ1bjVhdjE2aGF2aDFjdTc2bTc4eHY3NWdoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="500" alt="flow gif" />
 
-
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true, theme: 'default' });
-</script>
-
+---
 <div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&center=true&vCenter=true&width=900&color=00FF88&lines=%3E%3E+neural_networks.compile()++;%3E%3E+data_fusion.execute()++;%3E%3E+consciousness_expansion.active++;%3E%3E+debugging_reality.process()++;%3E%3E+visualization_engine.render()+" alt="💚 Terminal session: consciousness.exe is running...">
 </div>
+
+---
