@@ -8,4 +8,6 @@ Prepare-se para uma jornada épica no mundo do Data-Driven!  Neste conteudo, vam
 
 ## Conteúdo da materia de data-drive    
 
-💡   [Aula 1 - Introdução](Aula_1_introducao.ipynb)
+💡   [Aula 1 - Introdução](/Aula%201%20-%20Introdução%20Data-Drive.md)
+
+💡   [Aula 1.1 - Organização Data-Drive](/Aula%201.1%20-%20Organização%20Data-Drive.md)
