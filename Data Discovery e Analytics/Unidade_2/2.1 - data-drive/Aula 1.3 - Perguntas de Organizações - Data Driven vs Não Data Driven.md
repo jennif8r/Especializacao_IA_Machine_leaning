@@ -10,4 +10,5 @@
 
 ## Alguns exemplos empresas ***Data-drive*** 
 
-- quantos itens do produto  
+- Quantos itens do produto x serão vendidos **no proximo mes**?
+- Como serão as vendas por região 
