@@ -42,3 +42,5 @@ Este não é apenas um repositório.
 </div>
 
 ---
+
+![3D Rotating Cube](https://media.giphy.com/media/QsWwE3F3xJ3g/giphy.gif)

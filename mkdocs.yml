@@ -1,0 +1,36 @@
+site_name: Data Discovery e Analytics
+site_description: Jornada de estudos na Pós-Graduação em IA & Machine Learning.
+theme:
+  name: material
+  language: pt
+  palette:
+    # Palette toggle for light vs dark mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
+nav:
+  - 'Home': 'index.md'
+  - 'Unidade 1: Ferramentas e Fundamentos':
+    - 'Visão Geral': 'Data Discovery e Analytics/Unidade 1 - INTRODUÇÃO, OLAP E FERRAMENTAS/Readme.md'
+    - '1.1 - KPIs': 'Data Discovery e Analytics/Unidade 1 - INTRODUÇÃO, OLAP E FERRAMENTAS/1.1 - KPI/Readme.md'
+    - '1.2 - SSD': 'Data Discovery e Analytics/Unidade 1 - INTRODUÇÃO, OLAP E FERRAMENTAS/1.2 - SSD (Sistemas de Suporte a decisão )/Readme.md'
+    - '1.3 - OLAP': 'Data Discovery e Analytics/Unidade 1 - INTRODUÇÃO, OLAP E FERRAMENTAS/1.3 - OLAP/Readme.md'
+  - 'Unidade 2: Cultura Data-Driven':
+    - 'Visão Geral': 'Data Discovery e Analytics/Unidade 2 - Data Discovery & Data-Driven/README.md'
+    - '2.1 - Data-Driven': 'Data Discovery e Analytics/Unidade 2 - Data Discovery & Data-Driven/2.1 - data-drive/README.md'
