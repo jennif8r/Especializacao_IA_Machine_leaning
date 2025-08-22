@@ -17,11 +17,11 @@ Prepare-se para equipar seu arsenal, decodificar a realidade e descobrir o poder
 
 Cada unidade é um sistema estelar a ser explorado, com seus próprios planetas de conhecimento.
 
-*   **[Unidade 1: A Forja do Analista - Ferramentas e Fundamentos](./Data%20Discovery%20e%20Analytics/Unidade%201%20-%20INTRODUÇÃO,%20OLAP%20E%20FERRAMENTAS/Readme.md)**
+*   **[Unidade 1: A Forja do Analista - Ferramentas e Fundamentos](./Unidade%201%20-%20INTRODUÇÃO,%20OLAP%20E%20FERRAMENTAS/Readme.md)**
     *   **`[Status]`**: Online e Operacional.
     *   **`[Briefing]`**: O ponto de partida. Aqui você irá forjar as ferramentas mentais e conceituais essenciais, desde a definição de KPIs até a maestria em análise multidimensional com OLAP. É o seu treinamento básico para a exploração de dados.
 
-*   **[Unidade 2: A Cultura da Descoberta - Data-Driven & Discovery](./Data%20Discovery%20e%20Analytics/Unidade%202%20-%20Data%20Discovery%20&%20Data-Driven/README.md)**
+*   **[Unidade 2: A Cultura da Descoberta - Data-Driven & Discovery](./Unidade%202%20-%20Data%20Discovery%20&%20Data-Driven/README.md)**
     *   **`[Status]`**: Online e Operacional.
     *   **`[Briefing]`**: Com as ferramentas em mãos, é hora de aprender a pensar como um verdadeiro explorador. Nesta unidade, você mergulhará na cultura Data-Driven, aprendendo a mentalidade e as estratégias para transformar dados em descobertas revolucionárias.
 
