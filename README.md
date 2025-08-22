@@ -1,31 +1,56 @@
-# Pós-Graduação em IA & Machine Learning
-## Jornada: Data Discovery e Analytics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake-animation" />
+</p>
 
-![Jornada de Dados](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2070&auto=format&fit=crop)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&center=true&vCenter=true&width=800&lines=IA+%2F+Machine+Learning;Caderno+inteligente+que+evolui+com+o+estudo;Experimentos%2C+notebooks%2C+visuais%2C+anota%C3%A7%C3%B5es" alt="typing-svg">
+</p>
 
-### **`[INICIANDO TRANSMISSÃO]`**
 
-Bem-vindo(a), explorador(a) de dados, à sua jornada na matéria de **Data Discovery e Analytics**. Este é o seu diário de bordo e mapa estelar para navegar pelo vasto universo dos dados.
 
-Nossa missão é transformar você de um mero observador de dados em um verdadeiro arquiteto de insights, capaz de decifrar padrões, construir narrativas e guiar decisões que moldarão o futuro.
+<p align="center">
+  <img src="https://img.shields.io/badge/stack-Python%20%7C%20Jupyter%20%7C%20Plotly-1f6feb" alt="stack">
+  <img src="https://img.shields.io/badge/foco-IA%20%2F%20ML-0e8a16" alt="foco">
+  <img src="https://img.shields.io/badge/estado-em%20evolu%C3%A7%C3%A3o-orange" alt="estado">
+</p>
 
-Prepare-se para equipar seu arsenal, decodificar a realidade e descobrir o poder que reside nos dados.
 
----
 
-## 🗺️ Mapa da Jornada
+<div class="mermaid">
+stateDiagram-v2
+    [*] --> Baguncado
+    Baguncado --> Organizado: Curadoria de materiais
+    Organizado --> Iterando: Novos commits e experimentos
+    Iterando --> Publicado: Versão consolidada
+    Publicado --> Baguncado: Novas ideias exigem reestruturação
 
-Cada unidade é um sistema estelar a ser explorado, com seus próprios planetas de conhecimento.
+    state "DNA do crescimento" as DNA {
+        [*] --> Coletar
+        Coletar --> Elaborar: Anotações e sínteses
+        Elaborar --> Testar: Protótipos e notebooks
+        Testar --> Integrar: Capítulos e referências
+        Integrar --> [*]
+    }
 
-*   **[Unidade 1: A Forja do Analista - Ferramentas e Fundamentos](./Data%20Discovery%20e%20Analytics/Unidade%201%20-%20INTRODUÇÃO,%20OLAP%20E%20FERRAMENTAS/Readme.md)**
-    *   **`[Status]`**: Online e Operacional.
-    *   **`[Briefing]`**: O ponto de partida. Aqui você irá forjar as ferramentas mentais e conceituais essenciais, desde a definição de KPIs até a maestria em análise multidimensional com OLAP. É o seu treinamento básico para a exploração de dados.
+    Baguncado --> DNA
+    DNA --> Iterando
 
-*   **[Unidade 2: A Cultura da Descoberta - Data-Driven & Discovery](./Data%20Discovery%20e%20Analytics/Unidade%202%20-%20Data%20Discovery%20&%20Data-Driven/README.md)**
-    *   **`[Status]`**: Online e Operacional.
-    *   **`[Briefing]`**: Com as ferramentas em mãos, é hora de aprender a pensar como um verdadeiro explorador. Nesta unidade, você mergulhará na cultura Data-Driven, aprendendo a mentalidade e as estratégias para transformar dados em descobertas revolucionárias.
+    note right of Iterando
+      Sempre pulsando com IA,
+      Machine Learning e criatividade.
+    end note
+</div>
 
----
 
-**`[FIM DA TRANSMISSÃO]`**
-_Este mapa será atualizado à medida que novos sistemas estelares (unidades) forem descobertos._
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14cTR1NzczZXZqdzQ1bjVhdjE2aGF2aDFjdTc2bTc4eHY3NWdoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="500" alt="flow gif" />
+
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true, theme: 'default' });
+</script>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&center=true&vCenter=true&width=900&color=00FF88&lines=%3E%3E+neural_networks.compile()++;%3E%3E+data_fusion.execute()++;%3E%3E+consciousness_expansion.active++;%3E%3E+debugging_reality.process()++;%3E%3E+visualization_engine.render()+" alt="💚 Terminal session: consciousness.exe is running...">
+</div>
