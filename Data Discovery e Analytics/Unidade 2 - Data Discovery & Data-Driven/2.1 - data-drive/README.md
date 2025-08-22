@@ -10,7 +10,7 @@ Bem-vindo(a) ao módulo de Data Discovery e Analytics! Prepare-se para uma jorna
 
 Aqui você encontrará todos os materiais de estudo organizados para facilitar sua jornada de aprendizado.
 
-### Módulo 1: A Cultura Data-Driven
+###  🗺️ Mapa de Exploração
 
 *   **[Aula 1: Introdução ao Universo Data-Drive](./Aula%201%20-%20Introdução%20Data-Drive.md)**
     *   *O que significa ser orientado a dados e por que isso é a maior revolução no mundo dos negócios.*

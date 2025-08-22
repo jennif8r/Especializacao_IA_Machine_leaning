@@ -1,7 +1,7 @@
 # Unidade 2: Data Discovery & Data-Driven
 
 
-![alt text](/Data%20Discovery%20e%20Analytics/Unidade_2/image/image.png)
+![alt text](./image/image.png)
 
 ## Decodificando o Futuro com Dados
 
