@@ -16,31 +16,21 @@
 
 
 
-<div class="mermaid">
-stateDiagram-v2
-    [*] --> Baguncado
-    Baguncado --> Organizado: Curadoria de materiais
-    Organizado --> Iterando: Novos commits e experimentos
-    Iterando --> Publicado: Versão consolidada
-    Publicado --> Baguncado: Novas ideias exigem reestruturação
+## ✨ Como funciona este caderno?
 
-    state "DNA do crescimento" as DNA {
-        [*] --> Coletar
-        Coletar --> Elaborar: Anotações e sínteses
-        Elaborar --> Testar: Protótipos e notebooks
-        Testar --> Integrar: Capítulos e referências
-        Integrar --> [*]
-    }
+- **Materiais** → PDFs, artigos, links que caem como post-its digitais.  
+- **Matérias** → cada disciplina da pós ganha seu espaço como capítulo.  
+- **Fluxo vivo** → os commits mostram a evolução, os erros rabiscados, os acertos sublinhados.  
+- **Estilo livre** → rabiscos de código, gráficos 3D, frases soltas, insights repentinos.  
 
-    Baguncado --> DNA
-    DNA --> Iterando
 
-    note right of Iterando
-      Sempre pulsando com IA,
-      Machine Learning e criatividade.
-    end note
-</div>
+## 🌱 Crescimento
 
+Este não é apenas um repositório.  
+É um **caderno que se transforma** comigo:  
+- às vezes bagunçado,  
+- às vezes limpo e organizado,  
+- mas sempre pulsando com **IA, Machine Learning e criatividade**.  
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14cTR1NzczZXZqdzQ1bjVhdjE2aGF2aDFjdTc2bTc4eHY3NWdoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="500" alt="flow gif" />
