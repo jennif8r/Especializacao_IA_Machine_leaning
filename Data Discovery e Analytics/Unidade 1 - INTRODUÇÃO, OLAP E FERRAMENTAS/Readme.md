@@ -1,6 +1,5 @@
 # Unidade 1: A Caixa de Ferramentas do Analista de Dados
 
-![Caixa de Ferramentas](https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=2068&auto=format&fit=crop)
 
 ## Missão: Montando seu Arsenal Analítico
 

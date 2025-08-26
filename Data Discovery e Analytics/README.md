@@ -1,9 +1,6 @@
 # Pós-Graduação em IA & Machine Learning
 ## Jornada: Data Discovery e Analytics
 
-![Jornada de Dados](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2070&auto=format&fit=crop)
-
-### **`[INICIANDO TRANSMISSÃO]`**
 
 Bem-vindo(a), explorador(a) de dados, à sua jornada na matéria de **Data Discovery e Analytics**. Este é o seu diário de bordo e mapa estelar para navegar pelo vasto universo dos dados.
 
@@ -27,5 +24,4 @@ Cada unidade é um sistema estelar a ser explorado, com seus próprios planetas 
 
 ---
 
-**`[FIM DA TRANSMISSÃO]`**
 _Este mapa será atualizado à medida que novos sistemas estelares (unidades) forem descobertos._
